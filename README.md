@@ -109,7 +109,7 @@ comandos que devem ser executados para rodar o software e os testes;
 2. Suba o projeto no seu github;
 3. Disponibilize o link e nos envie a URL por email.
 
-Obs: Se você fez uso de algum Linter (esling, gofmt, goimports, etc.), envie o arquivo
+Obs: Se você fez uso de algum Linter, envie o arquivo
 de configuração junto com o projeto e descreva qual linter está sendo utilizado no
 `README` do projeto.
 
